@@ -4,7 +4,7 @@ A Jupyter notebook demonstration for texture mapping through PyVista
 ## Resources
 **Python version:** 3.9.2 <br>
 **Packages:** pyvista, numpy, time, matplotlib <br>
-**Texture Mapping:** https://whatis.techtarget.com/definition/texture-mapping
+**Texture Mapping:** https://whatis.techtarget.com/definition/texture-mapping <br>
 **Scientific Visualization:** https://www.omnisci.com/technical-glossary/scientific-visualization#:~:text=Scientific%20visualization%20refers%20to%20the%20process%20of%20representing%20raw%2C%20scientific,overlooked%20by%20statistical%20methods%20alone.
 
 ## Sample figures
