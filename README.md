@@ -1,5 +1,5 @@
 # Scientific-Visualization-HPC
-A Jupyter notebook demonstration for texture mapping through PyVista 
+A Jupyter notebook demonstration of texture mapping through PyVista 
 
 ## Resources
 **Python version:** 3.9.2 <br>
